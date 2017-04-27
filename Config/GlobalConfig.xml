@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CoreAutoFramework>
+  <RunSettings>
+    <AUT>http://localhost/</AUT>
+    <!-- Possible flag Chrome,Firefox, IE-->
+    <Browser>Chrome</Browser>
+    <!-- Possible flag Smoke, Regression, Unit  -->
+    <TestType>SmokeTest</TestType>
+    <!-- Possible Flag Y, N -->
+    <IsLog>Y</IsLog>
+    <IsReport>N</IsReport>
+    <LogPath>D:\\EAAutoLogs\\</LogPath>
+    <BuildName>DemoBuild</BuildName>
+    <UserName>EAutoTeam</UserName>
+    <!-- Possible flag Windows, Web, WPF  -->
+    <Technology>Selenium</Technology>
+    <ApplicationDb>Data Source=DESKTOP-6H7284L;Initial Catalog=EmployeeDB;Integrated Security=True</ApplicationDb>
+  </RunSettings>
+</CoreAutoFramework>

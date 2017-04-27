@@ -1,0 +1,15 @@
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\obj\Debug\CoreAutomationFramework.csprojResolveAssemblyReference.cache
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\CoreAutomationFramework.dll.config
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\CoreAutomationFramework.dll
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\CoreAutomationFramework.pdb
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\Newtonsoft.Json.dll
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\nunit.framework.dll
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\WebDriver.dll
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\WebDriver.Support.dll
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\Newtonsoft.Json.xml
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\nunit.framework.xml
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\WebDriver.xml
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\bin\Debug\WebDriver.Support.xml
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\obj\Debug\CoreAutomationFramework.dll
+c:\users\rajesh\documents\visual studio 2017\Projects\CoreAutomationFramework\CoreAutomationFramework\obj\Debug\CoreAutomationFramework.pdb

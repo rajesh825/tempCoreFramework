@@ -1,0 +1,17 @@
+﻿[
+  {
+    "EnvName": "int",
+    "BaseUrl": "https://intwww.mygov.scot",
+    "Username": "testadmin1",
+    "Password": "password1"
+
+  },
+  {
+    "EnvName": "exp",
+    "BaseUrl": "https://expwww.mygov.scot",
+    "Username": "testadmin1",
+    "Password": "password1"
+
+  }
+]
+ 
